@@ -15,7 +15,7 @@ A simple React Native app that allows you to input an online radio link and play
 1. Clone the repository:
 
    ```sh
-  git clone https://github.com/yourusername/simple-radio.git
+   git clone https://github.com/yourusername/simple-radio.git
 
 2. Change to the project directory:
 
